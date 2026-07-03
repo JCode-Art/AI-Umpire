@@ -1,0 +1,8 @@
+opencv-python               # For image processing and video handling
+numpy                       # For numerical computations
+torch                       # PyTorch (needed for YOLO model)
+torchvision                 # PyTorch image utilities
+ultralytics                 # For YOLOv8 (Ultralytics YOLO)
+filterpy                    # For Kalman filtering (object tracking)
+scikit-image                # Extra image processing functions
+matplotlib                  # For visualizations
