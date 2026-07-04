@@ -1,4 +1,4 @@
-https://youtube.com/shorts/wsZ2iVBepEo?si=piLFgawx9wTEoM4Y
+<img width="400" height="225" alt="Video Project 1" src="https://github.com/user-attachments/assets/3e93f6b8-f0ab-49e0-92db-409e6ed89519" />
 
 # Personal-Passion-Projects
 A passion project combining baseball, AI, and data analytics. Using Python, I analyze player and team performance, visualize statistics, and explore machine learning to identify trends and make predictions. Built to strengthen my skills in data science, software development, and sports analytics while solving real-world baseball problems.
